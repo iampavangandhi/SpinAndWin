@@ -37,12 +37,12 @@ function preload() {
   this.load.audio("audio", "Assets/audio.mp3");
   this.load.audio("coin", "Assets/coin.mp3");
 
-  this.load.image("background", "../Assets/back.jpg");
-  this.load.image("wheel", "../Assets/wheel.png");
-  this.load.image("pin", "../Assets/pin.png");
-  this.load.image("stand", "../Assets/stand.png");
-  this.load.image("spin", "../Assets/spin.png");
-  this.load.image("tryagain", "../Assets/tryagain.png");
+  this.load.image("background", "/Assets/back.jpg");
+  this.load.image("wheel", "/Assets/wheel.png");
+  this.load.image("pin", "/Assets/pin.png");
+  this.load.image("stand", "/Assets/stand.png");
+  this.load.image("spin", "/Assets/spin.png");
+  this.load.image("tryagain", "/Assets/tryagain.png");
 }
 function create() {
   //create the background image
