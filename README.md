@@ -1,2 +1,2 @@
 # SpinAndWin
-Spin &amp; Win Game
+Spin &amp; Win Web Game
